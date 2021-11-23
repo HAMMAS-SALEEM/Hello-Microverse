@@ -19,6 +19,8 @@ Additional description about the project and its features.
 
 [Live Demo Link](https://livedemo.com)
 
+## GET STARTED
+
 ## Authors
 
 👤 **Author1**
