@@ -21,7 +21,7 @@ Additional description about the project and its features.
 
 ## Authors
 
-👤 **Author1**
+👤 **HAMMAS BIN SALEEM**
 
 
 - GitHub: [@HAMMAS-SALEEM](https://github.com/HAMMAS-SALEEM)
