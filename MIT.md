@@ -1,4 +1,4 @@
-## Copyright 2021, [HAMMAS BIN SALEEM]
+## Copyright 2021, HAMMAS BIN SALEEM
 
 
 
