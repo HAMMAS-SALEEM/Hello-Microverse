@@ -23,9 +23,14 @@ Additional description about the project and its features.
 
 👤 **Author1**
 
-- GitHub: https://github.com/HAMMAS-SALEEM
-- Twitter: https://twitter.com/HammasSaleem4
-- LinkedIn: www.linkedin.com/in/hammas-saleem-407
+- GitHub: 
+- Twitter: 
+- LinkedIn: 
+
+
+- GitHub: [@HAMMAS-SALEEM](https://github.com/HAMMAS-SALEEM)
+- Twitter: [@HammasSaleem4](https://twitter.com/HammasSaleem4)
+- LinkedIn: [HAMMAS SALEEM](www.linkedin.com/in/hammas-saleem-407)
 
 
 ## 🤝 Contributing
